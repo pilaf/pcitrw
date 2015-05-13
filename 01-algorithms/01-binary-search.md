@@ -19,6 +19,8 @@ exactly in the middle of the not yet discarded list, I am minimizing the
 number of required comparisons, since every time I will be discarding half of
 the words.
 
+![](01-binary-search.horse.png)
+
 #### Guess Who?
 
 The same algorithm can be applied to the children game Guess Who?. The optimal
