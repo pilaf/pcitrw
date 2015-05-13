@@ -4,8 +4,7 @@
 
 #### Dictionary
 
-A person wants to look for a word in an English dictionary that does not have
-an index.
+A person wants to look for a word in an English dictionary.
 They may open the book in a random page, select any word in it and compare it
 with the word they are looking for. Since the words are sorted alphabetically,
 they know in which direction to proceed. They can now repeat this process
