@@ -5,10 +5,10 @@
 ##### Dictionary
 
 A person wants to look for a word in an English dictionary.
-They may open the book in any page, choose any word in it and compare it
-with the word they are looking for. Since the words are sorted they know in
-which way to proceed. They can now do this process over and over again
-until finding the wanted word.
+They may open the book at any page, choose any word in it and compare it
+with the word they are looking for. Since the words are sorted they know on
+which side to look next. They can now do this process over and over again until
+finding the wanted word.
 
 Doing these steps will lead to the result sooner or later. But if
 instead of comparing any word, they compare with the word that is
